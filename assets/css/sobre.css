@@ -1,0 +1,16 @@
+.sobre-cont img,h4{
+text-align: center;
+}
+
+.sobre-cont p{
+		text-align: center;
+	font-size: 22px;
+}
+
+.sobre-cont li{
+	font-size: 20px;
+}
+
+.sobre-cont ul{
+	padding: 50px;
+}

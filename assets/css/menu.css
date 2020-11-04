@@ -1,0 +1,22 @@
+.menu{
+	
+	text-align: center;
+	display: none;
+
+
+
+}
+
+.menu div{
+	border-bottom: 1px solid #4B0082;
+	margin:10px;
+	background-color: #6A5ACD;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+.menu a{
+	font-size:25px;
+	color: #fff;
+
+}

@@ -1,0 +1,31 @@
+.banner-img-pebolim img{
+   
+   border-left:4px solid  #4B0082; 
+    border-bottom: 4px solid  #4B0082; 
+   border-radius: 7px;
+
+	
+}
+
+.banner-carrossel-pebolim{
+
+
+	   border-left:4px solid  #4B0082; 
+    border-bottom: 4px solid  #4B0082; 
+   border-radius: 7px;
+   padding: 10px;
+}
+
+
+.banner-img-pebolim{
+transition: 0.5s;
+	
+}
+
+.banner-img-pebolim:hover{
+
+transition: 0.5s;
+	transform: scale(1.24);
+     
+
+}

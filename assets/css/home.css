@@ -1,0 +1,153 @@
+.rodape-form{
+	padding-top: 20px;
+	background-color: #f8f8f8;
+	padding-bottom: 20px;
+	border-top: 1px solid #ddd;
+}
+
+.div-input{
+ 
+    border: 1px solid #999;
+    padding: 11px;
+    padding-left: 6px;
+    padding-right: 5px;
+    border-top-left-radius: 9px;
+    border-bottom-left-radius: 9px;
+    float: left;
+
+}
+
+.div-input input{
+	display: inline-block;
+
+
+	
+
+}
+
+
+.banner-info{
+    background-attachment: fixed;
+    background-image: url(http://paulistasinucas.tk/assets/images/banner-info.jpg);
+    border-bottom: 8px solid #4B0082;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 50px;
+    background-size: contain;
+    background-position: center;
+
+
+}
+
+.input{
+	max-width: 350px;
+	    width: 87%;
+	margin: auto;
+	border-top-right-radius:2px; 
+	border-bottom-right-radius:2px;
+	border:none;
+	background-color:#ddd;
+	padding: 10px;
+	float: left;
+	margin-bottom: 10px;
+
+}
+
+
+.img-info{
+	border-left:3px solid #4B0082;
+	padding: 10px;
+	border-radius: 10px;
+	transition: 0.7s;
+
+}
+
+.img-info:hover{
+	transition: 0.7s;
+	transform: scale(1.05);
+		box-shadow: 2px 11px 15px 9px #6A5ACD;
+}
+
+.img-info a{
+	padding-left: 10px;
+}
+
+
+.banner-novidade h2{
+	font-size: 35px;
+	font-weight: 700;
+}
+
+
+.row-img-meio{
+	
+	margin: 5px;
+}
+
+.row-img-meio img{
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.div-img-meio{
+
+border-bottom: 1px solid #4B0082;
+box-shadow: 2px 11px 15px 1px #6A5ACD;
+}
+
+
+.row-img-meio{
+
+	transition: 0.7s;
+	text-align: center;
+}
+
+.row-img-meio a{
+	color: #000;
+}
+
+.row-img-meio:hover{
+	transition: 0.7s;
+	transform: scale(1.05);
+
+}
+
+.banner-info-img img{
+	margin-bottom: 20px;
+}
+.banner-info-img{
+	transition: 0.7s;
+	text-align: center;
+	color: #fff;
+	cursor: pointer;
+}
+
+.banner-info-img:hover{
+	transition: 0.7s;
+	transform: scale(1.05);
+}
+
+.texto-meio{
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.texto-meio h1{
+	color: #000;
+	font-weight: 700;
+}
+
+.texto-meio h5{
+	color: #999;
+	font-size: 25px;
+	 
+}
+
+.estilo-container{
+	border-bottom: 3px solid #4B0082;
+	margin-bottom: 10px;
+		
+	    
+ 
+}

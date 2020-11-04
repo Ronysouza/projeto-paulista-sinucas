@@ -1,0 +1,39 @@
+
+
+
+
+.servicos{
+	font-family: arial;
+}
+
+.servicos h1{
+	font-family: arial;
+	font-size: 21px;
+	 text-align: center;
+}
+
+.servicos h2,h3{
+	font-family: arial;
+	font-size: 21px;
+	 color: #000;
+}
+
+
+.servicos p{
+	text-align: left;
+	font-size: 13px;
+	color: #000;
+}
+
+.servicos ul{
+	list-style: none;
+}
+
+.asside_servicos{
+	display: none;
+}
+
+
+.port_modal{
+	font-size: 14px;
+}
